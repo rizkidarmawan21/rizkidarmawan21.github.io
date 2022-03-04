@@ -292,6 +292,7 @@ img{
     &__container{
         justify-items: center;
         row-gap: 2rem;
+
     }
     &__img{
         position: relative;
@@ -324,6 +325,8 @@ img{
             color: var(--dark-color);
         }
     }
+
+
 }
 /* ===== CONTACT =====*/
 .contact{
@@ -364,6 +367,7 @@ img{
         font-size: var(--normal-font-size);
         cursor: pointer;
     }
+
 }
 /* ===== FOOTER=====*/
 .footer{

@@ -383,11 +383,11 @@ Please report this to https://github.com/markedjs/marked.`,e){let r="<p>An error
 Manapos is a POS system for managing inventory, sales, and purchases.
 
 Built using Laravel 12, Inertia JS, Vue 3, Tailwind CSS
-        `,thumbnail:"https://rizkidarmawan21.github.io/assets/img/manapos/1.png",date:"2024-08-01"},{id:"mafurion-marketplace-furniture",title:"Mafurion - Marketplace Furniture",description:`
+        `,thumbnail:"/manapos/1.png",date:"2024-08-01"},{id:"mafurion-marketplace-furniture",title:"Mafurion - Marketplace Furniture",description:`
 A furniture marketplace website that provides buying and selling services for furniture materials, enabling online transactions.
 
 Built using Laravel 11, AlpineJS, TailwindCSS, Midtrans
-        `,thumbnail:"https://rizkidarmawan21.github.io/assets/img/mafurion/image.png",date:"2024-08-01"},{id:"jurnalin-better-financial-management",title:"Jurnalin | Better Financial Management",description:`
+        `,thumbnail:"/mafurion/image.png",date:"2024-08-01"},{id:"jurnalin-better-financial-management",title:"Jurnalin | Better Financial Management",description:`
 A web-based accounting application with features including financial reports, POS, purchasing, sales, user settings, and more; built with Laravel 9 + Inertia + Vue 3 + Tailwind.
 
 Features included in this system: Financial Reports, POS (Cashier), Sales, Purchasing, General Journal (General Ledger), Expenses, Accounts (COA - Chart of Account), Account Categories, Role & Permission Settings

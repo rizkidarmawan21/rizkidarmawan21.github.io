@@ -405,7 +405,18 @@ Built using Laravel 12, PostgreSQL, Redis, Docker, GitHub Actions
 Manapos is a POS system for managing inventory, sales, and purchases.
 
 Built using Laravel 12, Inertia JS, Vue 3, Tailwind CSS
-        `,thumbnail:"/manapos/1.png",date:"2024-08-01"},{id:"mafurion-marketplace-furniture",title:"Mafurion - Marketplace Furniture",description:`
+        `,thumbnail:"/manapos/1.png",date:"2024-08-01"},{id:"tracking-app",title:"Tracking App",description:`
+A real-time monitoring system for car transport trailers, with movement tracking and notifications that help the operations team follow each delivery.
+
+The dashboard brings together delivery assignments, trips in progress, and completed shipments. A checkpoint map shows recorded locations and check-in times across departure pools, loading sites, rest stops, and unloading destinations.
+
+- Fleet inspections and driver readiness before departure
+- Loading and unloading records, vehicle condition checks, and SOP checklists
+- Incident reporting and email notifications for inspection findings
+- Role-based access, audit trails, and Excel exports
+
+Built using Laravel 10, Inertia.js, Vue 3, Tailwind CSS, MySQL, Leaflet
+        `,thumbnail:"/projects/tracking-app.png?v=crop1"},{id:"mafurion-marketplace-furniture",title:"Mafurion - Marketplace Furniture",description:`
 A furniture marketplace website that provides buying and selling services for furniture materials, enabling online transactions.
 
 Built using Laravel 11, AlpineJS, TailwindCSS, Midtrans
@@ -418,7 +429,7 @@ Features included in this system: Financial Reports, POS (Cashier), Sales, Purch
 A village website created for Semerak Village, built using Laravel 8 framework and Tailwind CSS.
 
 This website features village biography, village news, public complaints, and online document submission. It facilitates residents in submitting complaints and creating documents online.
-        `,thumbnail:"https://user-images.githubusercontent.com/80609220/269516576-e2900b73-60f5-4ea5-b387-d95818b3c2c8.png",date:"2024-08-01"},{id:"e-book-4-hari-menjadi-laravel-developer-journey",title:"E-Book 4 Hari Menjadi Laravel Developer Journey",description:`
+        `,thumbnail:"/projects/web-desa-semerak.png?v=crop1",date:"2024-08-01"},{id:"e-book-4-hari-menjadi-laravel-developer-journey",title:"E-Book 4 Hari Menjadi Laravel Developer Journey",description:`
 A premium e-book containing Laravel and Vue tutorials for beginners with a case study of building a cashier or point of sale (POS) application using Laravel 9, Inertia JS, and Vue JS 3.
 
 [Preview E-Book](https://www.linkedin.com/posts/rizkidarmawan21_preview-ebook-sekolah-laravel-aplikasi-activity-7060145051783352320-_gh0?utm_source=share&utm_medium=member_desktop)
